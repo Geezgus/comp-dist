@@ -1,0 +1,4 @@
+var/www/html/
+.vscode
+__pycache__
+Senha wordpress.txt
