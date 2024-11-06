@@ -19,7 +19,7 @@ services:
             WORDPRESS_DB_PASSWORD: example
             WORDPRESS_DB_NAME: wordpress
         deploy:
-            replicas: 4
+            replicas: 3 
 
     locust:
         image: grubykarol/locust
